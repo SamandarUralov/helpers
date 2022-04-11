@@ -1,0 +1,1 @@
+<h1> Check device is mobile or not </h1>
