@@ -1,1 +1,1 @@
-<h1> Check device is mobile or not </h1>
+<h1> Helper functions for javascript devs </h1>
